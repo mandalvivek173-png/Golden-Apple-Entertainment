@@ -1,0 +1,7 @@
+{
+  "name": "Golden Apple Entertainment",
+  "description": "Luxury Wedding & Corporate Event Planning in Dehradun, Jaipur & Pan India. Crafting unforgettable celebrations since 2010.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
